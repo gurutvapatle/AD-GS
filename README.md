@@ -104,7 +104,7 @@ There are the processed datasets used in CoR-GS, with which the data preprocesse
 ### Tanks & Temples
 
 1. Download Tanks & Temples from [download link](https://www.robots.ox.ac.uk/~wenjing/Tanks.zip). 
-We refer to NoPe-NeRF(https://github.com/ActiveVisionLab/nope-nerf/?tab=readme-ov-file) for downloading.
+We refer to [NoPe-NeRF](https://github.com/ActiveVisionLab/nope-nerf/?tab=readme-ov-file) for downloading.
 
 2. run colmap to obtain initial point clouds with limited viewpoints:
     ```bash
