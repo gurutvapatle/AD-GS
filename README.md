@@ -34,7 +34,7 @@ pip install submodules/simple-knn
 
 ## Sample Run
 
-We provide a sample dataset for horns scene here in repo "dataset/nerf_llff_data/horns". Run below command to run demo.sh .
+We provide a sample file for horns scene here in repo. Run below command to run demo.sh .
 
 ``````
 bash demo.sh
