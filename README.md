@@ -1,9 +1,51 @@
-# AD-GS
+<h1 align="center">AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting</h1>
+
+<p align="center">
+  <a href="https://gurutvapatle.github.io/">Gurutva Patle</a><sup>1</sup>, 
+  <a href="#">Nilay Girgaonkar</a><sup>1</sup>, 
+  <a href="https://nagabhushansn95.github.io/">Nagabhushan Somraj</a><sup>1</sup>, 
+  <a href="https://ece.iisc.ac.in/~rajivs/#/">Rajiv Soundararajan</a><sup>1</sup>
+</p>
+
+<p align="center"><sup>1</sup>Indian Institute of Science (IISc), Bengaluru</p>
+
+<p align="center"><strong>Contact</strong>: Gurutva Patle via email (gurutvac[at]iisc[dot]ac[dot]in).</p>
+
+<p align="center">
+  <strong>✨ACM SIGGRAPH Asia 2025✨</strong>
+</p>
+
+<p align="center">
+  <a href='https://arxiv.org/abs/2509.11003'>
+  <img src='https://img.shields.io/badge/Arxiv-2508.13139-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
+  </a> 
+  <a href='https://arxiv.org/abs/2509.11003'>
+  <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
+  </a> 
+  <a href='https://github.com/gurutvapatle/AD-GS'>
+  <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'>
+</a> 
+  <a href='https://gurutvapatle.github.io/publications/2025/ADGS.html'>
+  <img src='https://img.shields.io/badge/YouTube-Video-EA3323?style=flat&logo=youtube&logoColor=EA3323'>
+</a> 
+</p>
+
+
+
+[//]: # (<p align="center">)
+
+[//]: # (  <video width="800" controls>)
+
+[//]: # (    <source src="./assets/cross-topo-retarget.mp4" type="video/mp4">)
+
+[//]: # (    Your browser does not support the video tag.)
+
+[//]: # (  </video>)
+
+[//]: # (</p>)
+
 This is the official repository for our paper **AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting**.
 
-[Paper](https://arxiv.org/abs/2509.11003) | [Project](https://gurutvapatle.github.io/publications/2025/ADGS.html) | [Video](https://gurutvapatle.github.io/publications/2025/ADGS.html)
-
-![method](assets/method.png)
 
 ## Abstract
 
@@ -12,6 +54,10 @@ This is the official repository for our paper **AD-GS: Alternating Densification
 We propose AD-GS, a novel alternating densification framework that interleaves high and low densification phases. During high densification, the model densifies aggressively, followed by photometric loss based training to capture fine-grained scene details. Low densification then primarily involves aggressive opacity pruning of Gaussians followed by regularizing their geometry through pseudo-view consistency and edge-aware depth smoothness.
 
 This alternating approach helps reduce overfitting by carefully controlling model capacity growth while progressively refining the scene representation. Extensive experiments on challenging datasets demonstrate that AD-GS significantly improves rendering quality and geometric consistency compared to existing methods.
+
+## Method Diagram
+![method](assets/method.png)
+
 
 ## Installation
 
