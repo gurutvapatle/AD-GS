@@ -190,8 +190,6 @@ Consider citing as below if you find this repository helpful to your project:
 
 ## Acknowledgement
 
-Special thanks to the following awesome projects!
+This work was supported in part by the Kotak IISc AI–ML Centre (KIAC).
 
-- [Gaussian-Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
-- [FSGS](https://github.com/VITA-Group/FSGS)
-- [CoR-GS](https://jiaw-z.github.io/CoR-GS/)
+
