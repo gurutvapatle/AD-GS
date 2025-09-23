@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gurutvapatle.github.io/">Gurutva Patle</a><sup>1</sup>, 
-  <a href="#">Nilay Girgaonkar</a><sup>1</sup>, 
+  <a href="https://nilzilla03.github.io">Nilay Girgaonkar</a><sup>1</sup>, 
   <a href="https://nagabhushansn95.github.io/">Nagabhushan Somraj</a><sup>1</sup>, 
   <a href="https://ece.iisc.ac.in/~rajivs/#/">Rajiv Soundararajan</a><sup>1</sup>
 </p>
