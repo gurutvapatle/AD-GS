@@ -1,0 +1,7 @@
+# ninja log v5
+1	10837	1758605908837082000	/media/user/New Volume1/Gurutva/Nerf_exp/ADGS-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	fac40d7b35b4cbd3
+1	18350	1758605916342580000	/media/user/New Volume1/Gurutva/Nerf_exp/ADGS-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	1e35f1435ea21ef7
+1	33937	1758605931936545100	/media/user/New Volume1/Gurutva/Nerf_exp/ADGS-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	6a725ae57c5e4b86
+6	10722	1758606311801537800	/media/user/New Volume1/Gurutva/Nerf_exp/ADGS-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	be8c307b34df9514
+6	18654	1758606319725221000	/media/user/New Volume1/Gurutva/Nerf_exp/ADGS-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	5a8b2bd2d5248f8
+6	39046	1758606340125365500	/media/user/New Volume1/Gurutva/Nerf_exp/ADGS-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	2d97272e2a1a36fb

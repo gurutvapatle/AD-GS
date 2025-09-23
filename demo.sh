@@ -1,0 +1,3 @@
+#python train.py -s "dataset/nerf_llff_data/horns" -m "output/nerf_llff_data/horns" --iterations 10000 --eval -r 4 --n_views 3 --random_background --position_lr_max_steps 10000 --densify_until_iter 10000 --densify_grad_threshold 0.0005 --gaussiansN 2 --coreg --sample_pseudo_interval 1 --start_sample_pseudo 500 --save_iterations 7000 10000
+python render.py -s "dataset/nerf_llff_data/horns" -m "output/nerf_llff_data/horns" --iteration 10000 --video
+python metrics.py -s "dataset/nerf_llff_data/horns" -m "output/nerf_llff_data/horns"
