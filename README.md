@@ -58,15 +58,14 @@ This alternating approach helps reduce overfitting by carefully controlling mode
 ## Method Diagram
 ![method](assets/method.png)
 
+### Tested on 
+``````
+Ubuntu 20.04.6 LTS, 
+NVIDIA-SMI 535.183.01 Driver Version: 535.183.01 CUDA Version: 12.2, 
+PyTorch 1.12.1
+``````
 
 ## Installation
-
-Tested on 
-``````
-#Ubuntu 20.04.6 LTS, 
-#NVIDIA-SMI 535.183.01 Driver Version: 535.183.01 CUDA Version: 12.2, 
-#PyTorch 1.12.1
-``````
 
 ``````
 conda env create --file environment.yml
@@ -105,12 +104,16 @@ A file "full_logs.json" contains the output.
         ├── ...
 ```
 
-## Preprocessed Dataset
+[//]: # (## Preprocessed Dataset)
 
-There are the processed datasets used in CoR-GS, with which the data preprocessed steps can be skipped:
-1. [Tanks & Temples 3,6,9 views](will update soon)
-2. [LLFF 3,6,9 views](will update soon)
-3. [MipNeRF-360 12,24 views](will update soon)
+[//]: # ()
+[//]: # (There are the processed datasets used in AD-GS, with which the data preprocessed steps can be skipped:)
+
+[//]: # (1. [Tanks & Temples 3,6,9 views]&#40;will update soon&#41;)
+
+[//]: # (2. [LLFF 3,6,9 views]&#40;will update soon&#41;)
+
+[//]: # (3. [MipNeRF-360 12,24 views]&#40;will update soon&#41;)
 
 ## Evaluation
 
