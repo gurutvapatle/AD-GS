@@ -19,14 +19,15 @@
   <a href='https://arxiv.org/abs/2509.11003'>
   <img src='https://img.shields.io/badge/Arxiv-2509.11003-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
   </a> 
-  <a href='https://arxiv.org/abs/2509.11003'>
+  <a href='https://arxiv.org/pdf/2509.11003'>
   <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
   </a> 
   <a href='https://github.com/gurutvapatle/AD-GS'>
   <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'>
 </a> 
   <a href='https://gurutvapatle.github.io/publications/2025/ADGS.html'>
-  <img src='https://img.shields.io/badge/YouTube-Video-EA3323?style=flat&logo=youtube&logoColor=EA3323'>
+  <img src="https://img.shields.io/badge/Project-Page-EA3323?style=flat&logo=pdm&logoColor=white">
+
 </a> 
 </p>
 
