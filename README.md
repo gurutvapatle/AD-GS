@@ -206,4 +206,9 @@ Consider citing as below if you find this repository helpful to your project:
 
 This work was supported in part by the Kotak IISc AI–ML Centre (KIAC).
 
+Special thanks to the following awesome projects!
+
+- [Gaussian-Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+- [CoR-GS](https://jiaw-z.github.io/CoR-GS/)
+
 
