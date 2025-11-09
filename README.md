@@ -177,7 +177,22 @@ Similar to Gaussian Splatting, our method can read standard COLMAP format datase
 ## Citation
 
 Consider citing as below if you find this repository helpful to your project:
-
+```
+@inproceedings{Patle2025ADGS,
+ author = {Patle, Gurutva and Girgaonkar, Nilay and Somraj, Nagabhushan and Soundararajan, Rajiv},
+ title = {{AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting}},
+ booktitle = {{Proceedings of SIGGRAPH Asia 2025 Conference Papers}},
+ series = {{SA '25}},
+ year = {2025},
+ note = {Accepted, In Press},
+ publisher = {{ACM}},
+ address = {Hong Kong},
+ doi = {10.1145/3757377.3763993},
+ eprint = {2509.11003},
+ archivePrefix = {arXiv},
+ primaryClass = {cs.GR}
+}
+```
 ```
 @article{patle2025ad,
   title={AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting},
