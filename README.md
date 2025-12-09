@@ -19,7 +19,7 @@
   <a href='https://arxiv.org/abs/2509.11003'>
   <img src='https://img.shields.io/badge/Arxiv-2509.11003-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
   </a> 
-  <a href='https://arxiv.org/pdf/2509.11003'>
+  <a href='https://dl.acm.org/doi/10.1145/3757377.3763993'>
   <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
   </a> 
   <a href='https://github.com/gurutvapatle/AD-GS'>
@@ -178,28 +178,20 @@ Similar to Gaussian Splatting, our method can read standard COLMAP format datase
 
 Consider citing as below if you find this repository helpful to your project:
 ```
-@inproceedings{Patle2025ADGS,
- author = {Patle, Gurutva and Girgaonkar, Nilay and Somraj, Nagabhushan and Soundararajan, Rajiv},
- title = {{AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting}},
- booktitle = {{Proceedings of SIGGRAPH Asia 2025 Conference Papers}},
- series = {{SA '25}},
- year = {2025},
- note = {Accepted, In Press},
- publisher = {{ACM}},
- address = {Hong Kong},
- doi = {10.1145/3757377.3763993},
- eprint = {2509.11003},
- archivePrefix = {arXiv},
- primaryClass = {cs.GR}
-}
-```
-```
-@article{patle2025ad,
-  title={AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting},
-  author={Patle, Gurutva and Girgaonkar, Nilay and Somraj, Nagabhushan and Soundararajan, Rajiv},
-  journal={arXiv preprint arXiv:2509.11003},
-  year={2025}
-}
+@inproceedings{Patle_2025,
+          series={SA Conference Papers ’25},
+          title={AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting},
+          author={Patle, Gurutva and Girgaonkar, Nilay and Somraj, Nagabhushan and Soundararajan, Rajiv},
+          url={http://dx.doi.org/10.1145/3757377.3763993},
+          DOI={10.1145/3757377.3763993},
+          booktitle={Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+          publisher={ACM},
+          year={2025},
+          collection={SA Conference Papers ’25},
+          address={Hong Kong},
+          month=dec,
+          pages={1–11}
+          }
 ```
 
 ## Acknowledgement
