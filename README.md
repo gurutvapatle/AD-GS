@@ -178,20 +178,21 @@ Similar to Gaussian Splatting, our method can read standard COLMAP format datase
 
 Consider citing as below if you find this repository helpful to your project:
 ```
-@inproceedings{Patle_2025,
-          series={SA Conference Papers ’25},
-          title={AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting},
-          author={Patle, Gurutva and Girgaonkar, Nilay and Somraj, Nagabhushan and Soundararajan, Rajiv},
-          url={http://dx.doi.org/10.1145/3757377.3763993},
-          DOI={10.1145/3757377.3763993},
-          booktitle={Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
-          publisher={ACM},
-          year={2025},
-          collection={SA Conference Papers ’25},
-          address={Hong Kong},
-          month=dec,
-          pages={1–11}
-          }
+@inproceedings{Patle2025ADGS,
+            author = {Patle, Gurutva and Girgaonkar, Nilay and Somraj, Nagabhushan and Soundararajan, Rajiv},
+            title = {AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting},
+            year = {2025},
+            isbn = {9798400721373},
+            publisher = {Association for Computing Machinery (ACM)},
+            address = {New York, NY, USA},
+            url = {https://doi.org/10.1145/3757377.3763993},
+            doi = {10.1145/3757377.3763993},
+            booktitle = {Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+            articleno = {129},
+            numpages = {11},
+            keywords = {Rendering, novel view synthesis, sparse input 3D Gaussian splatting},
+            series = {SA Conference Papers '25}
+            }
 ```
 
 ## Acknowledgement
